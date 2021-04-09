@@ -1,0 +1,13 @@
+name: COVIDInMinecraft
+version: ${project.version}
+main: me.advait.covidinminecraft.COVIDInMinecraft
+api-version: 1.16
+authors: [Advait]
+description: Minecraft, but there's a global pandemic.
+commands:
+  givecorona:
+    description: Gives COVID to someone.
+  removecorona:
+    description: Removes COVID from someone.
+  givevaccine:
+    description: Gives a test vaccine to someone.
